@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1321210485 source:/home/thomi/workspace/DreiGewinnt/framework.cpp
+	"cFramework.h"
+
+1321290632 /home/thomi/workspace/DreiGewinnt/cFramework.h
+	<iostream>
+	"SDL/SDL.h"
+
+1321293854 source:/home/thomi/workspace/DreiGewinnt/game.cpp
+	"cGame.h"
+
+1321299566 /home/thomi/workspace/DreiGewinnt/cGame.h
+	"SDL/SDL.h"
+
+1321802562 source:/home/thomi/workspace/DreiGewinnt/main.cpp
+	"CApp.h"
+
+1322065116 source:/home/thomi/workspace/DreiGewinnt/CApp.cpp
+	"CApp.h"
+	"CSurface.h"
+	"CEvent.h"
+	"ArtInt.h"
+	<iostream>
+
+1322065047 /home/thomi/workspace/DreiGewinnt/CApp.h
+	<SDL/SDL.h>
+	"CEvent.h"
+
+1321477737 source:/home/thomi/workspace/DreiGewinnt/CFramework.cpp
+	"CSurface.h"
+
+1321555280 /home/thomi/workspace/DreiGewinnt/CSurface.h
+	<SDL/SDL.h>
+	<iostream>
+
+1321551301 /home/thomi/workspace/DreiGewinnt/CEvent.h
+	<SDL/SDL.h>
+
+1321551347 source:/home/thomi/workspace/DreiGewinnt/CEvent.cpp
+	"CEvent.h"
+
+1321555932 source:/home/thomi/workspace/DreiGewinnt/CSurface.cpp
+	"CSurface.h"
+
+1322057083 /home/thomi/workspace/DreiGewinnt/ArtInt.h
+	"SDL/SDL.h"
+
+1322060788 source:/home/thomi/workspace/DreiGewinnt/ArtInt.cpp
+	"ArtInt.h"
+
